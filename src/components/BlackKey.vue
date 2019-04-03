@@ -48,6 +48,8 @@ export default {
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   cursor: pointer;
+  margin-left: -30px;
+  margin-right: -30px;
 }
 .blackkey:active {
   background-color: #333;
